@@ -5,11 +5,11 @@ Official codebase for SPCL.
 SPCL is a new prototypical learning framework that leverages siamese-style metric loss to match intra-prototype features, while increasing the distance between inter-prototype features.
 
 [**Siamese Prototypical Contrastive Learning**](https://arxiv.org/abs/2208.08819)
-<br>Shentong Mo, Zhun Sun, and Chao Li}<br>
+<br>Shentong Mo, Zhun Sun, and Chao Li<br>
 BMVC 2021.
 
 <div align="center">
-  <img width="100%" alt="SPCL Illustration" src="images/framework.png">
+  <img width="80%" alt="SPCL Illustration" src="images/framework.png">
 </div>
 
 
